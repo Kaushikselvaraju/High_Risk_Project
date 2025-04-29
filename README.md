@@ -1,7 +1,7 @@
 # High Risk Project
 
 ## 🧠 Overview
-**High Risk Project** is an AI-powered application designed to tackle complex decision-making in high-risk environments using large language models and intelligent automation. It leverages advanced reasoning, medical prompt workflows (e.g., Chain-of-Thought prompting), and contextual understanding to provide reliable, step-by-step outputs for sensitive scenarios such as healthcare, legal assistance, or emergency analysis.
+This **Project** is an AI-powered application designed to tackle complex decision-making in high-risk environments using large language models and intelligent automation. It leverages advanced reasoning, medical prompt workflows (e.g., Chain-of-Thought prompting), and contextual understanding to provide reliable, step-by-step outputs for sensitive scenarios such as healthcare, legal assistance, or emergency analysis.
 
 ---
 
